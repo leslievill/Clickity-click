@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Clickity-click/static/css/main.0150c806.chunk.css",
+    "main.js": "/Clickity-click/static/js/main.0b219a2b.chunk.js",
+    "main.js.map": "/Clickity-click/static/js/main.0b219a2b.chunk.js.map",
+    "runtime-main.js": "/Clickity-click/static/js/runtime-main.8b4a66d5.js",
+    "runtime-main.js.map": "/Clickity-click/static/js/runtime-main.8b4a66d5.js.map",
+    "static/css/2.43b2b750.chunk.css": "/Clickity-click/static/css/2.43b2b750.chunk.css",
+    "static/js/2.339da0ef.chunk.js": "/Clickity-click/static/js/2.339da0ef.chunk.js",
+    "static/js/2.339da0ef.chunk.js.map": "/Clickity-click/static/js/2.339da0ef.chunk.js.map",
+    "static/js/3.143046ea.chunk.js": "/Clickity-click/static/js/3.143046ea.chunk.js",
+    "static/js/3.143046ea.chunk.js.map": "/Clickity-click/static/js/3.143046ea.chunk.js.map",
+    "index.html": "/Clickity-click/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/Clickity-click/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.0150c806.chunk.css.map": "/Clickity-click/static/css/main.0150c806.chunk.css.map",
+    "static/js/2.339da0ef.chunk.js.LICENSE.txt": "/Clickity-click/static/js/2.339da0ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b4a66d5.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.339da0ef.chunk.js",
+    "static/css/main.0150c806.chunk.css",
+    "static/js/main.0b219a2b.chunk.js"
+  ]
+}
